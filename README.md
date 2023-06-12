@@ -1,8 +1,7 @@
 
 # Oops Mini Project 
-[oopsMiniProject.webm](https://github.com/prakhar00007/OOPsMiniProject/assets/92537028/876dc6ab-26ea-4d88-a3c8-8ae0fd6fc881)
 
-
+https://github.com/prakhar00007/OOPsMiniProject/assets/92537028/653bc93f-f96f-4b09-87d3-1f8ecfcd8f4f
 
 The Oops Mini Project in C++ is a banking system application that allows users to perform various banking operations. It is designed using object-oriented programming principles and provides features such as checking account balance, cash withdrawal, displaying user details, and updating the mobile number.
 
