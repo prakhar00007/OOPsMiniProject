@@ -48,7 +48,12 @@ Version control systems like Git can be used to track changes to the project's s
 5. Command Line Interface (CLI):
 The project can be executed through a command line interface, where users interact with the application by inputting commands and receiving corresponding output. The CLI provides a straightforward and efficient way to navigate through the banking system and perform operations.
 
-## Contact
+<h2>📬 Contact</h2>
 
-For any inquiries or feedback, please contact us at prakharrathore111@gmail.com . 
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-kumar-singh)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharrathore111@gmail.com)
+
 
